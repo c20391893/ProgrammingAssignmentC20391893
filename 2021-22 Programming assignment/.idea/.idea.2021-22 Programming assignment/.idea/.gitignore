@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.2021-22 Programming assignment.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\ciara\Unity projects\2021-22 Programming assignment\.idea\.idea.2021-22 Programming assignment\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
